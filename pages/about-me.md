@@ -28,7 +28,7 @@ about:
 
   gallery:
     - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
+      caption: Crocheting!
     - image: /assets/images/me-basketball.png
       caption: Hooping and dropping people off at the park 🏀
     - image: /assets/images/me.jpg
