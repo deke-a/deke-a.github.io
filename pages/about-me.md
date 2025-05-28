@@ -4,12 +4,12 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
+  name: Moradeke Adetosoye
+  role: Sophomore, Computer Information Systems Major at Grambling State University
   image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  linkedin: https://www.linkedin.com/in/moradeke-adetosoye/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I’m currently a sophomore studying Computer Information Systems and Cybersecurity at Grambling State University in Grambling, Louisiana. I expect to graduate in 2028.
 
     My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
 
@@ -17,8 +17,8 @@ about:
 
   hobbies:
     - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
+      title: Crocheting
+      description: I’ve been crocheting since middle school and love making clothes and accessories.
     - icon: 🤖
       title: Raspberry Pi Projects
       description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
