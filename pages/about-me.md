@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Moradeke Adetosoye
   role: Sophomore, Computer Information Systems Major at Grambling State University
-  image: /assets/images/me.jpg
+  image: assets/images/Headshot_3.jpeg
   linkedin: https://www.linkedin.com/in/moradeke-adetosoye/
   bio: |
     I’m currently a sophomore studying Computer Information Systems and Cybersecurity at Grambling State University in Grambling, Louisiana. I expect to graduate in 2028.
