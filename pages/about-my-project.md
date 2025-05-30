@@ -3,26 +3,24 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Neural Engineering & Assistive Robotics
+subtitle: 2025 Summer AI Research Institute
 project_title: "The African Diaspora Media Hub"
 
 problem: |
-  Individuals with severe motor disabilities often struggle with basic tasks that could be aided by robotic assistance. However, there is a lack of accessible and adaptive systems that respond naturally to the user's intent via brain-computer interfaces.
-
-  This project seeks to explore how neural signals can be translated into reliable control commands for assistive robots, improving autonomy and quality of life.
+  Many communities in the African Diaspora are underrepresented or misrepresented in mainstream media and digital storytelling. This lack of visibility limits access to accurate narratives, cultural preservation, and meaningful engagement with broader audiences. Our project seeks to address this gap by using artificial intelligence to support content creation, archival organization, and media dissemination that reflects the diverse voices and experiences of the African Diaspora.
 
 approach: |
-  The project follows a four-phase pipeline:
+  The project follows a six-phase pipeline:
 
-  - Collect EEG data during imagined movements using a non-invasive BCI headset
-  - Train machine learning models to decode intent from neural patterns
-  - Integrate real-time signal classification with a robotic arm interface
-  - Evaluate system performance in simulated daily activities (e.g., object grasping, pointing)
-
-  Open-source tools such as OpenBCI, Python (MNE, Scikit-learn), and ROS (Robot Operating System) will be used to prototype the system.
+  - Use AI tools to collect and organize media content related to the African Diaspora.
+  - Develop a searchable digital hub to store and showcase stories, images, and audio.
+  - Apply computer vision and natural language processing to analyze and tag media.
+  - Work with faculty mentors and peers to refine project goals and implementation.
+  - Conduct user testing to ensure accessibility, relevance, and cultural accuracy.
+  - Present findings and final product at the end of the research program.
 
 outcome: |
-  By the end of the program, the project will result in a working prototype of a BCI-controlled robotic arm and a poster presentation outlining the system architecture, training pipeline, and evaluation metrics. Insights from the user study will inform future directions in adaptive assistive technology.
+  The project will result in a working prototype of a digital media hub that uses AI to organize, analyze, and present stories from the African Diaspora. This includes tagged and searchable content, making it easier to access and understand diverse cultural narratives. Along the way, the team will gain hands-on experience with Python, computer vision, and collaborative research. The final product will be shared through a formal presentation and may serve as a foundation for future research or community-focused media tools.
 
 final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
 
