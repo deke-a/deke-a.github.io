@@ -9,22 +9,22 @@ about:
   image: assets/images/headshot_final.jpeg
   linkedin: https://www.linkedin.com/in/moradeke-adetosoye/
   bio: |
-    I’m currently a sophomore studying Computer Information Systems and Cybersecurity at Grambling State University in Grambling, Louisiana. I expect to graduate in 2028.
+    I'm a sophomore at Grambling State University, majoring in Computer Information Systems with a minor in Cybersecurity, on track to graduate in 2028. I’m especially interested in how technology can be used to make systems smarter, safer, and more responsive to real-world needs.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
+    Right now, I’m exploring how digital tools—like AI, media platforms, and connected devices—can empower underrepresented communities and reshape how we share stories, protect data, and build networks. Whether I’m building my first website, working on a research team, or troubleshooting code, I enjoy figuring out how things work and how they can work better.
 
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    Outside the classroom, I mentor other students, serve as a Community Assistant, and stay involved in projects that blend tech, creativity, and service. I’m curious by nature and always looking for ways to grow—one experiment, one line of code, or one conversation at a time.
 
   hobbies:
-    - icon: 🎺
+    - icon: 🧶
       title: Crocheting
       description: I’ve been crocheting since middle school and love making clothes and accessories.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+    - icon: 👩🏽‍🍳
+      title: Cooking
+      description: I enjoy making food from scratch and experimenting with new recipes.
+    - icon: 📚
+      title: Reading
+      description: I love reading novels and comics, action and thrillers would always have my heart.
 
   gallery:
     - image: /assets/images/me-guitar.png
