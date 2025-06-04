@@ -27,12 +27,12 @@ about:
       description: I love reading novels and comics, action and thrillers would always have my heart.
 
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Crocheting!
-    - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
-    - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+    - image: assets/images/crochet.jpeg
+      caption: The beauty of crochet
+    - image: assets/images/cooking.jpeg
+      caption: Prepping a homemade meal
+    - image: assets/images/portrait.jpeg
+      caption: Beautiful black art :)
+    - image: assets/images/reading.jpeg
+      caption: The beauty of words
 ---
